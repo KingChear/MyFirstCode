@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="E:\android studio-64\android-studio-ide-141.2456560-windows\android-studio\gradle\gradle-2.8" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/activitytest" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/broadcasttest" />
+            <option value="$PROJECT_DIR$/broadcasttest2" />
+            <option value="$PROJECT_DIR$/cameraalbumtest" />
+            <option value="$PROJECT_DIR$/databasetest" />
+            <option value="$PROJECT_DIR$/fragmenttest" />
+            <option value="$PROJECT_DIR$/listviewtest" />
+            <option value="$PROJECT_DIR$/litepaltest" />
+            <option value="$PROJECT_DIR$/materialtest" />
+            <option value="$PROJECT_DIR$/networktest" />
+            <option value="$PROJECT_DIR$/notificationtest" />
+            <option value="$PROJECT_DIR$/playaudiotest" />
+            <option value="$PROJECT_DIR$/playvideotest" />
+            <option value="$PROJECT_DIR$/recyclerviewtest" />
+            <option value="$PROJECT_DIR$/servicetest" />
+            <option value="$PROJECT_DIR$/sharedpreferences" />
+            <option value="$PROJECT_DIR$/uibestpractice" />
+            <option value="$PROJECT_DIR$/uicustomviews" />
+            <option value="$PROJECT_DIR$/uilayouttest" />
+            <option value="$PROJECT_DIR$/uiwidgettest" />
+            <option value="$PROJECT_DIR$/webviewtest" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
